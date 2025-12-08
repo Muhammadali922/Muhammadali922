@@ -3,50 +3,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Engineer;Aiogram+Bot+Developer;HTML+%26+CSS+Specialist;AI+Enthusiast;Never+Stop+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;AI+Automation;Backend+Engineer;Never+Stop+Learning+🚀" />
 </p>
 
+<!-- PYTHON CODING ANIMATION -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480" />
 </p>
 
 ---
 
-## 💎 About Me
+## 🧠 About Me
 
-* 🐍 Python & Django Backend Developer
+* 🐍 Python & Django REST developer
 * 🤖 Aiogram orqali Telegram botlar yarataman
-* 🌐 HTML & CSS bilan Web interface ishlab chiqaman
-* 🧠 AI & Automation ga qiziqaman
+* ⚙️ Backend & API tizimlar quraman
+* 🧠 AI va Automation ga qiziqaman
 * 📚 Hozir: **Django (Intermediate Level)**
-* 🎯 Maqsad: Kuchli Software Engineer bo‘lish
+* 🎯 Goal: Kuchli Backend / AI Developer bo‘lish
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,linux,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,linux,postgres,sqlite&theme=dark" />
 </p>
 
 ---
 
-## 📊 Real GitHub Activity (WORKING)
+## 📊 Real GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadali922&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadali922&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" width="49%" />
 </p>
 
 ---
 
-```
+## 🐍 Contribution Snake (Animated)
+
 ![snake animation](https://raw.githubusercontent.com/Muhammadali922/Muhammadali922/main/dist/github-contribution-grid-snake.svg)
-```
 
 ---
 
-## 🌍 Contact
+## 🌍 Contact Me
 
 * ✅ Telegram: [https://t.me/MuhammadAli2244](https://t.me/MuhammadAli2244)
 * ✅ Instagram: [https://instagram.com/zokirov._.0](https://instagram.com/zokirov._.0)
@@ -54,6 +56,6 @@
 
 ---
 
-> 💬 **"Consistency + Code = Success"**
+> 💬 *"First learn to code. Then code to learn."*
 
-⭐ Agar yoqsa — Follow + Star ni unutmang
+⭐ Profilim yoqsa Follow + Star bosishni unutmang
