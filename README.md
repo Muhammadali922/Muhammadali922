@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:005eff&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&center=true&vCenter=true&lines=Python+Developer;Django+Backend+Engineer;Aiogram+Bot+Developer;HTML+CSS+Specialist;AI+Enthusiast;Future+Full-Stack+Dev;Never+Stop+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Engineer;Aiogram+Bot+Developer;HTML+%26+CSS+Specialist;AI+Enthusiast;Never+Stop+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="450" />
 </p>
 
 ---
@@ -16,14 +16,14 @@
 
 * 🐍 Python & Django Backend Developer
 * 🤖 Aiogram orqali Telegram botlar yarataman
-* 🌐 HTML & CSS bilan Web Interface ishlab chiqaman
+* 🌐 HTML & CSS bilan Web interface ishlab chiqaman
 * 🧠 AI & Automation ga qiziqaman
 * 📚 Hozir: **Django (Intermediate Level)**
 * 🎯 Maqsad: Kuchli Software Engineer bo‘lish
 
 ---
 
-## ⚙️ Tech Stack (Animated)
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,linux,postgres,sqlite&theme=dark" />
@@ -31,41 +31,63 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Real GitHub Activity (WORKING)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammadali922&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadali922&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🧠 AI + Bot Projects Focus
+## 🐍 Snake Animation (FIX)
 
-```txt
-🤖 Telegram Bots (Aiogram)
-🌐 Backend API (Django)
-📊 Automation Tools
-⚙️ AI integrations
-💻 Web Systems
+Bu ishlashi uchun buni ham qilasan:
+
+1. GitHub’ga yangi repo och: **Muhammadali922**
+2. Ichida `.github/workflows/snake.yml` yarat
+3. Ichiga mana shu kodni qo‘y:
+
+```yaml
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Muhammadali922
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate snake animation"
+          add: "dist/*.svg"
 ```
 
----
+Keyin README’ga mana buni qo‘y (ISHLAYDI):
 
-## 🐍 Contribution Snake (ANIMATED)
-
-![snake animation](https://github.com/Muhammadali922/Muhammadali922/blob/output/github-contribution-grid-snake.svg)
+```
+![snake animation](https://raw.githubusercontent.com/Muhammadali922/Muhammadali922/main/dist/github-contribution-grid-snake.svg)
+```
 
 ---
 
 ## 🌍 Contact
 
-* Telegram: @your_username
-* GitHub: @Muhammadali922
-* Portfolio: coming soon...
+* ✅ Telegram: [https://t.me/MuhammadAli2244](https://t.me/MuhammadAli2244)
+* ✅ Instagram: [https://instagram.com/zokirov._.0](https://instagram.com/zokirov._.0)
+* ✅ GitHub: [https://github.com/Muhammadali922](https://github.com/Muhammadali922)
 
 ---
 
-> 💬 **"Code. Learn. Build. Repeat."**
+> 💬 **"Consistency + Code = Success"**
 
-<center>⭐ Profilim yoqsa follow va projectlarga star bosishni unutmang</center>
+⭐ Agar yoqsa — Follow + Star ni unutmang
