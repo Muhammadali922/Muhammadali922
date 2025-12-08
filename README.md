@@ -42,12 +42,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-![snake animation](https://raw.githubusercontent.com/Muhammadali922/Muhammadali922/main/dist/github-contribution-grid-snake.svg)
-
----
-
 ## 🌍 Contact Me
 
 * ✅ Telegram: [https://t.me/MuhammadAli2244](https://t.me/MuhammadAli2244)
