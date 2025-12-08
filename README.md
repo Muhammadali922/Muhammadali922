@@ -1,15 +1,14 @@
 <p align="center">
+  <!-- CODING DEVELOPER ANIMATION -->
+  <img src="https://media.giphy.com/media/3o7TKPq6v9y6mGg4uY/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;AI+Automation;Backend+Engineer;Never+Stop+Learning+🚀" />
-</p>
-
-<!-- PYTHON CODING ANIMATION -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480" />
 </p>
 
 ---
@@ -41,6 +40,7 @@
 </p>
 
 ---
+
 
 ## 🌍 Contact Me
 
