@@ -10,10 +10,9 @@
 ### 🧠 About Me
 
 * 🔭 Hozir: Django backend loyihalar ustida ishlayapman
-* 🌱 O‘rganayapman: Python, Django, REST API, Pygame
+* 🌱 O‘rganayapman: Python, Django, REST API, Aiogram
 * 🎯 Maqsad: Kuchli Backend Developer bo‘lish
 * ⚡ Qiziqishlar: AI, Web, Game development, Crypto trading
-* 🕹 Sevimli o‘yinlar: GTA 5, Minecraft, anime style futbol o‘yinlar
 
 ---
 
@@ -22,9 +21,8 @@
 **Languages & Tools:**
 
 * 🐍 Python
-* 🌐 HTML / CSS
 * 🧰 Django
-* 🎮 Pygame
+* ✈ telegram bot
 * 🗄 PostgreSQL / SQLite
 * 🔧 Git & GitHub
 
