@@ -1,58 +1,71 @@
-## Hi there 👋 I'm MuhammadAli
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:005eff&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-🚀 **Future Backend Developer | Python & Django Enthusiast**
-💻 Django, Backend & Game Dev bilan shug‘ullanaman
-🎮 GTA 5 & Minecraft o‘ynayman
-📚 Hozirda: **Django (Intermediate Level)** ni o‘rganayapman
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&center=true&vCenter=true&lines=Python+Developer;Django+Backend+Engineer;Aiogram+Bot+Developer;HTML+CSS+Specialist;AI+Enthusiast;Future+Full-Stack+Dev;Never+Stop+Learning+🚀" />
+</p>
 
----
-
-### 🧠 About Me
-
-* 🔭 Hozir: Django backend loyihalar ustida ishlayapman
-* 🌱 O‘rganayapman: Python, Django, REST API, Aiogram
-* 🎯 Maqsad: Kuchli Backend Developer bo‘lish
-* ⚡ Qiziqishlar: AI, Web, Game development, Crypto trading
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 ---
 
-### 🛠 Skills
+## 💎 About Me
 
-**Languages & Tools:**
-
-* 🐍 Python
-* 🧰 Django
-* ✈ telegram bot
-* 🗄 PostgreSQL / SQLite
-* 🔧 Git & GitHub
-
----
-
-### 📊 GitHub Stats
-
-![MuhammadAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadali922\&show_icons=true\&theme=tokyonight)
+* 🐍 Python & Django Backend Developer
+* 🤖 Aiogram orqali Telegram botlar yarataman
+* 🌐 HTML & CSS bilan Web Interface ishlab chiqaman
+* 🧠 AI & Automation ga qiziqaman
+* 📚 Hozir: **Django (Intermediate Level)**
+* 🎯 Maqsad: Kuchli Software Engineer bo‘lish
 
 ---
 
-### 🚀 Top Languages
+## ⚙️ Tech Stack (Animated)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadali922\&layout=compact\&theme=tokyonight)
-
----
-
-### 🔗 Let's connect
-
-* 📫 Telegram: [@MuhammadAli2244]
-* 📸 Instagram: [zokirov._.0]
-* 🌐 Portfolio: [Coming Soon...]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,linux,postgres,sqlite&theme=dark" />
+</p>
 
 ---
 
-### 💬 Favorite Quote
+## 📊 GitHub Activity
 
-> “Don’t stop until you’re proud.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammadali922&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
-Thanks for visiting my profile 💙
-⭐ Agar yoqsa, repo va projectlarimga **star** bosishni unutmang 😉
+## 🧠 AI + Bot Projects Focus
+
+```txt
+🤖 Telegram Bots (Aiogram)
+🌐 Backend API (Django)
+📊 Automation Tools
+⚙️ AI integrations
+💻 Web Systems
+```
+
+---
+
+## 🐍 Contribution Snake (ANIMATED)
+
+![snake animation](https://github.com/Muhammadali922/Muhammadali922/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌍 Contact
+
+* Telegram: @your_username
+* GitHub: @Muhammadali922
+* Portfolio: coming soon...
+
+---
+
+> 💬 **"Code. Learn. Build. Repeat."**
+
+<center>⭐ Profilim yoqsa follow va projectlarga star bosishni unutmang</center>
