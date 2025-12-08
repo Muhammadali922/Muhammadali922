@@ -40,40 +40,6 @@
 
 ---
 
-## 🐍 Snake Animation (FIX)
-
-Bu ishlashi uchun buni ham qilasan:
-
-1. GitHub’ga yangi repo och: **Muhammadali922**
-2. Ichida `.github/workflows/snake.yml` yarat
-3. Ichiga mana shu kodni qo‘y:
-
-```yaml
-name: Generate snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Muhammadali922
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate snake animation"
-          add: "dist/*.svg"
-```
-
-Keyin README’ga mana buni qo‘y (ISHLAYDI):
-
 ```
 ![snake animation](https://raw.githubusercontent.com/Muhammadali922/Muhammadali922/main/dist/github-contribution-grid-snake.svg)
 ```
