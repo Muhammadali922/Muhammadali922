@@ -42,7 +42,6 @@
 ## 🌍 Contact Me
 
 * ✅ Telegram: [https://t.me/MuhammadAli2244](https://t.me/MuhammadAli2244)
-* ✅ Instagram: [https://instagram.com/zokirov._.0](https://instagram.com/zokirov._.0)
 * ✅ GitHub: [https://github.com/Muhammadali922](https://github.com/Muhammadali922)
 
 ---
