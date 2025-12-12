@@ -1,7 +1,10 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Boshida animatsiya: code yozayotgan odam -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2281906/screenshots/6532824/programmer.gif" alt="Coding Animation" width="400"/>
 </p>
 
 <p align="center">
@@ -37,7 +40,6 @@
 </p>
 
 ---
-
 
 ## 🌍 Contact Me
 
