@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJreGZ4Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaO3u/giphy.gif" width="100%" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8e894c107144815.5fa286361a99d.gif" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2281906/screenshots/6532824/programmer.gif" alt="Coding Animation" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;AI+Automation;Backend+Engineer;Never+Stop+Learning+🚀" />
 </p>
 
 ---
