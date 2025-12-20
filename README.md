@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8e894c107144815.5fa286361a99d.gif" width="100%" />
 </p>
 
-<!-- Boshida animatsiya: code yozayotgan odam -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2281906/screenshots/6532824/programmer.gif" alt="Coding Animation" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
