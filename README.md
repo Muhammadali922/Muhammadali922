@@ -1,56 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=%20&fontSize=90&bgAnimate=true&background=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="capsule-render.vercel.app" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MuhammadAli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="readme-typing-svg.herokuapp.com+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2281906/screenshots/6532824/programmer.gif" alt="Coding Animation" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;AI+Automation;Backend+Engineer;Never+Stop+Learning+🚀" />
+  <img src="cdn.dribbble.com" alt="Coding Animation" width="400"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🐍 Python & Django REST developer
-* 🤖 Aiogram orqali Telegram botlar yarataman
-* ⚙️ Backend & API tizimlar quraman
-* 🧠 AI va Automation ga qiziqaman
-* 📚 Hozir: **Django (Intermediate Level)**
-* 🎯 Goal: Kuchli Backend / AI Developer bo‘lish
+- 🐍 **Python & Django** bo'yicha Backend muhandisiman.
+- 🤖 **Aiogram** orqali murakkab Telegram ekotizimlarini yarataman.
+- ⚙️ **API dizayni** (DRF) va ma'lumotlar bazasi arxitekturasi bilan shug'ullanaman.
+- 🧠 **AI va Automation** — kelajak asosi, men shu yo'nalishdaman.
+- 📚 Hozir: **Django (Intermediate Level)** va Arxivlash tizimlari ustida ishlayapman.
+- 🎯 Goal: Dunyo darajasidagi **Senior Backend Engineer** bo‘lish.
 
 ---
 
 ## ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,linux,postgres,sqlite&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="skillicons.dev" />
+  </a>
 </p>
 
 ---
 
-## 📊 Real GitHub Activity
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadali922&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" width="49%" />
+  <img src="github-readme-stats.vercel.app" width="48%" />
+  <img src="github-readme-stats.vercel.app" width="48%" />
+</p>
+
+<p align="center">
+  <img src="github-readme-activity-graph.vercel.app" width="100%" />
+</p>
+
+### 🐍 My Contributions in Snake Game
+<p align="center">
+  <img src="raw.githubusercontent.com" alt="snake" />
 </p>
 
 ---
 
 ## 🌍 Contact Me
 
-* ✅ Telegram: [https://t.me/MuhammadAli2244](https://t.me/MuhammadAli2244)
-* ✅ GitHub: [https://github.com/Muhammadali922](https://github.com/Muhammadali922)
+<p align="left">
+<a href="https://t.me/MuhammadAli2244" target="blank"><img align="center" src="raw.githubusercontent.com" alt="MuhammadAli2244" height="30" width="40" /></a>
+<a href="https://github.com/Muhammadali922" target="blank"><img align="center" src="raw.githubusercontent.com" alt="Muhammadali922" height="30" width="40" /></a>
+</p>
 
 ---
 
 > 💬 *"First learn to code. Then code to learn."*
 
-⭐ Profilim yoqsa Follow + Star bosishni unutmang
+⭐ Profilim yoqsa **Follow + Star** bosishni unutmang!
