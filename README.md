@@ -55,15 +55,6 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Muhammadali922/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Muhammadali922/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Muhammadali922/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Muhammadali922/output/github-snake.svg" />
 </p>
 
-> 💬 *"First learn to code. Then code to learn."*
-
-⭐ Profilim yoqsa Follow + Star bosishni unutmang
