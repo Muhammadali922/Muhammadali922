@@ -50,7 +50,6 @@
 * ✅ GitHub: [https://github.com/Muhammadali922](https://github.com/Muhammadali922)
 
 ---
----
 
 ## 🐍 GitHub Contribution Snake
 
