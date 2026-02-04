@@ -11,27 +11,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;AI+Automation;Backend+Engineer;Never+Stop+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;Backend+Engineer;AI+Automation;Never+Stop+Learning+🚀" />
 </p>
-
 
 ---
 
 ## 🧠 About Me
 
-* 🐍 Python & Django REST developer
-* 🤖 Aiogram orqali Telegram botlar yarataman
-* ⚙️ Backend & API tizimlar quraman
-* 🧠 AI va Automation ga qiziqaman
-* 📚 Hozir: **Django (Intermediate Level)**
-* 🎯 Goal: Kuchli Backend / AI Developer bo‘lish
+👋 Assalomu alaykum! Men **MuhammadAli**, Backend va Python yo‘nalishida rivojlanayotgan dasturchiman.
+
+- 🐍 Python & Django REST Framework developer  
+- 🤖 Aiogram orqali Telegram botlar yarataman  
+- ⚙️ Backend & API tizimlar ishlab chiqaman  
+- 🧠 AI va Automation sohasiga qiziqaman  
+- 📚 Hozir: **Django (Intermediate Level)**  
+- 🎯 Maqsad: **Kuchli Backend / AI Developer** bo‘lish  
+
+---
+
+## 🛠 My Tech Stack
+
+### 🚀 Backend & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+</p>
+
+### 🌐 API & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,redis,postman" />
+</p>
+
+### 🤖 Bots & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=telegram" />
+</p>
+
+### 🧰 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
 ## 🌍 Contact Me
 
-* ✅ Telegram: [https://t.me/MuhammadAli2244](https://t.me/MuhammadAli2244)
-* ✅ GitHub: [https://github.com/Muhammadali922](https://github.com/Muhammadali922)
+- 📬 Telegram: [@MuhammadAli2244](https://t.me/MuhammadAli2244)  
+- 💻 GitHub: [github.com/Muhammadali922](https://github.com/Muhammadali922)  
 
 ---
 
@@ -41,4 +66,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-white.gif" width="100%" />
+</p>
