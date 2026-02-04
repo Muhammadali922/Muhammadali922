@@ -43,8 +43,10 @@
 
 ### 🤖 Bots & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=telegram" />
+  <img src="https://skillicons.dev/icons?i=python,linux" />
+  <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" />
 </p>
+
 
 ### 🧰 Dev Tools
 <p>
