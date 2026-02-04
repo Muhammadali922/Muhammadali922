@@ -27,14 +27,6 @@
 
 ---
 
-## ⚙️ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,linux,postgres,sqlite&theme=dark" />
-</p>
-
----
-
 ## 📊 Real GitHub Activity
 
 <p align="center">
