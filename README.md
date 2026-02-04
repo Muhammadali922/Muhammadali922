@@ -14,6 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&width=650&lines=Python+Developer;Django+REST+Framework;Aiogram+Bot+Developer;AI+Automation;Backend+Engineer;Never+Stop+Learning+🚀" />
 </p>
 
+
 ---
 
 ## 🧠 About Me
@@ -24,15 +25,6 @@
 * 🧠 AI va Automation ga qiziqaman
 * 📚 Hozir: **Django (Intermediate Level)**
 * 🎯 Goal: Kuchli Backend / AI Developer bo‘lish
-
----
-
-## 📊 Real GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadali922&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadali922&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&hide_border=true" width="49%" />
-</p>
 
 ---
 
